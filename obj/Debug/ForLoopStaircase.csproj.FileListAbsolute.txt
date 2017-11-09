@@ -1,0 +1,7 @@
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\bin\Debug\ForLoopStaircase.exe.config
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\bin\Debug\ForLoopStaircase.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\bin\Debug\ForLoopStaircase.pdb
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\obj\Debug\ForLoopStaircase.csprojResolveAssemblyReference.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\obj\Debug\ForLoopStaircase.csproj.CoreCompileInputs.cache
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\obj\Debug\ForLoopStaircase.exe
+C:\Users\allis\Documents\Visual Studio 2017\Projects\ForLoopStaircase\ForLoopStaircase\obj\Debug\ForLoopStaircase.pdb
